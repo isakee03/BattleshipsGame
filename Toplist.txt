@@ -1,0 +1,10 @@
+0.826, Fredrik, 0
+0.792, Ruben, 1
+0.76, Ruben, 1
+0.76, Eva, 1
+0.76, Ake, 1
+0.731, Vahid, 1
+0.731, Fantomen, 1
+0.704, Morris, 1
+0.704, Isak, 1
+0.704, Edgar, 1
